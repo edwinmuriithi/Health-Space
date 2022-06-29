@@ -1,7 +1,5 @@
 # Health Space Website.
 
-## Demo.
-Here is a working live demo :  https://wdmuthiora.github.io/colab/
 
 
 ## Site.
@@ -32,18 +30,7 @@ If you find a bug or undesired results, or if you'd like to request a new functi
 - [JavaScript]-Added component interactivity.
 - [HTML/ CSS] -Created and styled site. 
 
-## To-do
-- 
-
-## Team
- 
-[Simon Kairu ](https://github.com/simonkairu)
-[Nancy-codergirl ](https://github.com/Nancy-codergirl)
-[Maryann Mwikali ](https://github.com/Maryan23)
-[Kevson102 ](https://github.com/Kevson102)
-[Edwin Muriithi ](https://github.com/edwinmuriithi)
 
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Dennis Muthiora ](https://github.com/wdmuthiora)
+
