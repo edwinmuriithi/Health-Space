@@ -1,0 +1,67 @@
+/* nav {
+  background-color: beige;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+} */
+
+.institution {
+    color: blue;
+}
+
+.Heading {
+    margin-top: 20px;
+    background-image: url("../images/image4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Heading>h1 {
+    font-size: 70px;
+    color: black;
+    padding: 150px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section>h2 {
+    text-align: center;
+    color: black;
+}
+
+.service1 {
+    height: 350px;
+    width: 400px;
+    padding-top: 50px;
+    text-align: center;
+    border: 1px solid transparent;
+    margin: 10px;
+    background-color: #a7c6e6;
+    color: white;
+    /* border-radius: 0 0 0% 30%; */
+    overflow-y: scroll;
+}
+
+.service1>ul {
+    text-align: left;
+}
+
+.motto>h3 {
+    background-color: rgb(98, 98, 159);
+    color: white;
+    padding: 20px;
+}
+
+footer {
+    height: auto;
+    /* background-color: rgb(81, 37, 37); */
+}

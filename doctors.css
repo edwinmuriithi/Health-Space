@@ -1,0 +1,73 @@
+#logog{
+    margin-left:-150px;
+}
+#findd{
+    display:flex;
+    justify-content: space-evenly;
+    height:600px;
+}
+#name{
+    width:150px;
+}
+#email {
+    margin-left:-18px;
+}
+#inputCounty{
+    margin-left:15px;
+    width:150px;
+}
+label{
+    font-weight:600;
+}
+#county{
+    margin-left:12px;
+}
+#buttono{
+    background-color: #3FACE4;
+}
+.textd{
+    width:400px;
+    margin-left: 50px;
+    margin-top:100px;
+}
+#find{
+    margin-left: 40px;
+    color:#3FACE4;
+    font-size:50px;
+    height:150px;
+}
+.imaged{
+    float:right;
+    margin-top:-700px;
+    width:700px;
+    height:900px;
+}
+h5{
+    text-align: center;
+    font-weight: 400;
+}
+#browse{
+    background-color:#3FACE4;
+    font-weight:400;
+    font-size:50px;
+    text-align: end;
+    color:white;
+    height:70px;
+    margin-top:30px;
+}
+#doc{
+    width:300px;
+    height:300px;
+    border-radius:800px;
+    margin-left:60px;
+    margin-top:30px;
+}
+.card-text{
+    text-align: center;
+}
+.card-group{
+    height:400px;
+    width:1200px;
+    margin-left:40px;
+    margin-top:-50px;
+}
